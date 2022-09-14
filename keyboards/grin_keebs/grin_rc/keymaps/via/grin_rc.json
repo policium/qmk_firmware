@@ -2,7 +2,7 @@
     "name": "GRIN RC",
     "vendorId": "0x476B",
     "productId": "0x0002",
-    "menus": [ "qmk_rgb_matrix" ],
+    "lighting": "qmk_rgblight",
     "matrix": { "rows": 10, "cols": 7 },
     "layouts": {
         "keymap": [
