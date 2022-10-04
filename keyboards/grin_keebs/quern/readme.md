@@ -2,7 +2,7 @@
 
 ![Quern](https://user-images.githubusercontent.com/3132296/193731309-971e1c5f-691b-4eba-82e4-eb493a3eb508.JPG)
 
-*A short description of the keyboard/project*
+Ergonomic keyboard with trackpad and rotary encoder made of Seeeduino XIAO, a small module.
 
 * Keyboard Maintainer: [GRINkeebs](https://github.com/policium)
 * Hardware Supported: *The PCBs, controllers supported*
