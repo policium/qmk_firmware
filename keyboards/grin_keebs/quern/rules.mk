@@ -1,0 +1,12 @@
+WS2812_DRIVER = vendor
+
+OLED_DRIVER = SSD1306
+
+POINTING_DEVICE_DRIVER = cirque_pinnacle_i2c
+CIRQUE_PINNACLE_ATTENUATION = ADC_ATTENUATE_2X
+
+# custom matrix setup
+CUSTOM_MATRIX = lite
+
+SRC += matrix.c
+QUANTUM_LIB_SRC += i2c_master.c
