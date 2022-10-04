@@ -1,4 +1,4 @@
-# grin_keebs/quern
+# GRIN Quern
 
 ![Quern](https://user-images.githubusercontent.com/3132296/193731309-971e1c5f-691b-4eba-82e4-eb493a3eb508.JPG)
 
