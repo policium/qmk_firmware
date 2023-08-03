@@ -20,7 +20,7 @@ void keyboard_post_init_kb(void) {
     //setPinOutput(GP2);
     //writePinHigh(GP2);
     // Call the post init code.
-    rgblight_enable_noeeprom(); // enables Rgb, without saving settings
-    rgblight_sethsv_noeeprom(180, 255, 255); // sets the color to teal/cyan without saving
-    rgblight_mode_noeeprom(RGBLIGHT_MODE_BREATHING + 3); // sets mode to Fast breathing without saving
+    //rgblight_enable_noeeprom(); // enables Rgb, without saving settings
+    //rgblight_sethsv_noeeprom(180, 255, 255); // sets the color to teal/cyan without saving
+    //rgblight_mode_noeeprom(RGBLIGHT_MODE_BREATHING + 3); // sets mode to Fast breathing without saving
 }
